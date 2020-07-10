@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # migrations
 class CreateTweeets < ActiveRecord::Migration[6.0]
   def change

@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require 'test_helper'
 # tweet controller
 class TweeetsControllerTest < ActionDispatch::IntegrationTest
